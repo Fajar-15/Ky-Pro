@@ -1,4 +1,3 @@
-# Paid
 
 ### Module 
 ```
@@ -13,5 +12,5 @@ git clone https://github.com/Fajar-15/Ky-Pro
 ```
 cd Ky-Pro
 git pull
-python main4.pyc ky
+python run4.pyc ky
 ```
