@@ -12,5 +12,5 @@ git clone https://github.com/Fajar-15/Ky-Pro
 ```
 cd Ky-Pro
 git pull
-python run.pyc ky
+python run1.pyc
 ```
